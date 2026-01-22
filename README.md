@@ -36,7 +36,7 @@ Lyrics-Chatbot/
 ## ⚙️ Setup Instructions (Windows)
 
 ### 1️⃣ Clone Repository
-```bash
+
 git clone https://github.com/sakshi3004/Lyrics-Chatbot.git
 cd Lyrics-Chatbot
 
@@ -44,10 +44,10 @@ cd Lyrics-Chatbot
 python -m venv venv
 venv\Scripts\activate
 
-***###3️⃣ Install Dependencies***
+###3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-***###4️⃣ Configure Neo4j***
+###4️⃣ Configure Neo4j
 
 Install Neo4j Desktop
 
@@ -59,7 +59,7 @@ NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_password
 
-***###5️⃣ Genius API Setup***
+###5️⃣ Genius API Setup
 
 Create Genius API token
 
@@ -67,7 +67,7 @@ Add it in config.py
 
 GENIUS_API_KEY=your_genius_api_key
 
-***###6️⃣ Run the Application***
+###6️⃣ Run the Application
 python app.py
 
 📌 Future Enhancements
