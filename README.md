@@ -36,10 +36,10 @@ Lyrics-Chatbot/
 ## ⚙️ Setup Instructions (Windows)
 
 ### 1️⃣ Clone Repository
-
+***
 git clone https://github.com/sakshi3004/Lyrics-Chatbot.git
 cd Lyrics-Chatbot
-
+***
 
 ### 2️⃣ Create Virtual Environment
 python -m venv venv
