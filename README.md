@@ -36,10 +36,10 @@ Lyrics-Chatbot/
 ## ⚙️ Setup Instructions (Windows)
 
 ### 1️⃣ Clone Repository
-***
+
 git clone https://github.com/sakshi3004/Lyrics-Chatbot.git
 cd Lyrics-Chatbot
-***
+
 
 ### 2️⃣ Create Virtual Environment
 python -m venv venv
@@ -75,7 +75,7 @@ GENIUS_API_KEY=your_genius_api_key
 ### 6️⃣ Run the Application
 python app.py
 
-
+***
 ### 📌 Future Enhancements
 
 Streamlit Web UI
@@ -85,9 +85,10 @@ Mood-based recommendations
 LLM integration
 
 User authentication
-
-
+***
+***
 ### 👩‍💻 Author
 
 Sakshi Darekar
 MSc Computer Science
+***
