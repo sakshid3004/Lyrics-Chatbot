@@ -75,7 +75,7 @@ GENIUS_API_KEY=your_genius_api_key
 ### 6️⃣ Run the Application
 python app.py
 
-***
+---
 ### 📌 Future Enhancements
 
 Streamlit Web UI
@@ -85,10 +85,10 @@ Mood-based recommendations
 LLM integration
 
 User authentication
-***
-***
+
+---
 ### 👩‍💻 Author
 
 Sakshi Darekar
 MSc Computer Science
-***
+
