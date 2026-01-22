@@ -40,12 +40,15 @@ Lyrics-Chatbot/
 git clone https://github.com/sakshi3004/Lyrics-Chatbot.git
 cd Lyrics-Chatbot
 
+
 ### 2️⃣ Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
 
+
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 
 ### 4️⃣ Configure Neo4j
 
@@ -59,6 +62,7 @@ NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_password
 
+
 ### 5️⃣ Genius API Setup
 
 Create Genius API token
@@ -67,10 +71,12 @@ Add it in config.py
 
 GENIUS_API_KEY=your_genius_api_key
 
+
 ### 6️⃣ Run the Application
 python app.py
 
-📌 Future Enhancements
+
+### 📌 Future Enhancements
 
 Streamlit Web UI
 
@@ -80,7 +86,8 @@ LLM integration
 
 User authentication
 
-***👩‍💻 Author***
+
+### 👩‍💻 Author
 
 Sakshi Darekar
 MSc Computer Science
